@@ -1,4 +1,4 @@
-## TEMPLATE: Cleanup of _NEW_ BrunaLab Dataset
+## TEMPLATE: Cleanup and Organization of a _new_ BrunaLab Dataset
 
 This is the structure of the template. After setting it up, replace the text in the README with informartion specific to your dfata cleanup project.
 A sample README can be found at https://github.com/BrunaLab/HeliconiaSurveys  
